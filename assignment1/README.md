@@ -10,7 +10,7 @@ HUAWEI's phone information in JD.com: https://list.jd.com/list.html?cat=9987,653
 * type - string e.g. 自营 <br>
 
 ## Data Volume
-214 rows × 5 columns
+120 rows × 5 columns
 
 ## License
 CC 4.0
